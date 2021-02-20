@@ -13,5 +13,19 @@
 ### 故障預測 (迴歸問題) 
 - https://github.com/ywchiu/HKPC/blob/master/pdm/module5_ttf_prediction.ipynb
 
+## 排程數據優化
+
+### 時間序列分析
+- https://github.com/ywchiu/HKPC/blob/master/optimization/module1_time_series.ipynb
+
+### 製造優化
+- https://github.com/ywchiu/HKPC/blob/master/optimization/module2_manfacruing_problem.ipynb
+
+### 排程優化
+- https://github.com/ywchiu/HKPC/blob/master/optimization/module3_production_scheduling.ipynb
+
+### 供應鏈網路優化
+- https://github.com/ywchiu/HKPC/blob/master/optimization/module4_facility_allocation.ipynb
+
 ## Colab
 - https://colab.research.google.com/
